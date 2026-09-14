@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace this with your own project banner/screenshot -->
-<img width="1200" height="475" alt="Grama Health Connect banner" src="./screenshot 2026-09-14 181941.png" />
+<img width="1200" height="475" alt="Grama Health Connect banner" src="Screenshot 2026-09-14 181941.png" />
 
 # 🏥 Grama Health Connect
 
