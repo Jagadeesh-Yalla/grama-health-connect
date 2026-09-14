@@ -1,0 +1,5 @@
+{
+  "name": "Grama Health Connect",
+  "description": "A simple, bilingual rural healthcare access and appointment platform that works completely offline.",
+  "requestFramePermissions": ["geolocation"]
+}
